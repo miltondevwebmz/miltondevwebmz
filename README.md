@@ -11,31 +11,9 @@
 Sou Desenvolvedor Fullstack & Freelancer apaixonado por tecnologia, desenvolvimento web e construção de soluções digitais funcionais.
 
 Formado em:
-
-🎓 Programação em Aplicação Web
-
-🛠️ Técnico de Suporte Informático
-
-
-Actualmente foco-me em:
-
-Desenvolvimento Web Frontend & Backend
-
-Sistemas de Gestão
-
-Landing Pages modernas
-
-Interfaces responsivas
-
-Lógica JavaScript
-
-Bases de dados MySQL
-
-Projectos reais para fortalecimento técnico
-
+🎓 Programação em Aplicação Web & 🛠️ Técnico de Suporte Informático
 
 Além da programação, gosto de estudar tecnologia, jogar videogames, ler a Bíblia e desenvolver pensamento estratégico. Sim, um programador que documenta projectos e ainda toca em filosofia existencial cristã. Estatisticamente raro.
-
 
 ---
 
@@ -51,6 +29,7 @@ SCSS / LESS
 
 
 </div>
+
 ---
 
 🧠 Competências
@@ -66,7 +45,6 @@ SCSS / LESS
 ✔ Boa comunicação
 ✔ Versatilidade técnica
 
-
 ---
 
 📂 Projectos em Destaque
@@ -76,7 +54,6 @@ SCSS / LESS
 Sistema desenvolvido para gestão eficiente de inventário, vendas, clientes e produtos. Inclui autenticação, gestão administrativa e organização de dados.
 
 Tecnologias: PHP MySQL JavaScript HTML CSS
-
 
 ---
 
@@ -94,7 +71,6 @@ Pong Simples
 
 
 Tecnologias: HTML CSS JavaScript
-
 
 ---
 
@@ -117,12 +93,12 @@ UI minimalista
 
 Tecnologias: HTML CSS JavaScript LESS
 
-
 ---
 
 📊 GitHub Analytics
 
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltondevwebmz&show_icons=true&theme=tokyonight&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltondevwebmz&layout=compact&theme=tokyonight&hide_border=true" /></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miltondevwebmz&theme=tokyonight&hide_border=true" /></div>
+
 ---
 
 ⚡ Actualmente
@@ -137,8 +113,6 @@ Tecnologias: HTML CSS JavaScript LESS
 
 🚀 Evoluindo consistência técnica diariamente
 
-
-
 ---
 
 🌍 Contacto
@@ -146,7 +120,6 @@ Tecnologias: HTML CSS JavaScript LESS
 📍 Maputo, Moçambique <br>
 📧 miltonamonecumba@gmail.com <br>
 📱 +258 873890211
-
 
 ---
 
