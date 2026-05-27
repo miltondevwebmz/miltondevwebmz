@@ -47,71 +47,9 @@ SCSS / LESS
 
 ---
 
-📂 Projectos em Destaque
-
-🛒 Sistema de Gestão de Vendas
-
-Sistema desenvolvido para gestão eficiente de inventário, vendas, clientes e produtos. Inclui autenticação, gestão administrativa e organização de dados.
-
-Tecnologias: PHP MySQL JavaScript HTML CSS
-
----
-
-🎮 Jogos Web Interactivos
-
-Colecção de mini projectos para prática de lógica, eventos, manipulação DOM e interactividade.
-
-Projectos:
-
-Jogo do Click
-
-Jogo da Velha
-
-Pong Simples
-
-
-Tecnologias: HTML CSS JavaScript
-
----
-
-🌐 Portfólio Pessoal Moderno
-
-Website desenvolvido para apresentação profissional de competências, serviços e projectos.
-
-Características:
-
-Tema dark/light
-
-Design responsivo
-
-Navegação moderna
-
-Estrutura organizada
-
-UI minimalista
-
-
-Tecnologias: HTML CSS JavaScript LESS
-
----
-
 📊 GitHub Analytics
 
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltondevwebmz&show_icons=true&theme=tokyonight&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltondevwebmz&layout=compact&theme=tokyonight&hide_border=true" /></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miltondevwebmz&theme=tokyonight&hide_border=true" /></div>
-
----
-
-⚡ Actualmente
-
-📚 Aprofundando conhecimentos em desenvolvimento Fullstack
-
-🧩 Melhorando arquitectura de sistemas web
-
-🔐 Trabalhando com autenticação e autorização
-
-🎯 Construindo projectos mais profissionais e escaláveis
-
-🚀 Evoluindo consistência técnica diariamente
 
 ---
 
