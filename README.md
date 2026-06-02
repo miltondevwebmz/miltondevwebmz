@@ -19,7 +19,7 @@ Além da programação, gosto de estudar tecnologia, jogar videogames, ler a Bí
 
 🚀 Stack Tecnológica
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,scss,jquery,git,github,vscode,netlify, postman" /></div><br><div align="center">Frontend	Backend	Database	Tools
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,scss,jquery,git,github,vscode,netlify,postman" /></div><br><div align="center">Frontend	Backend	Database	Tools
 
 HTML5	PHP	MySQL	Git
 CSS3	APIs	SQL	GitHub
