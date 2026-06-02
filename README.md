@@ -19,7 +19,7 @@ Além da programação, gosto de estudar tecnologia, jogar videogames, ler a Bí
 
 🚀 Stack Tecnológica
 
-<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,jquery,git,github,vscode" /></div><br><div align="center">Frontend	Backend	Database	Tools
+<div align="center"><img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,bootstrap,scss,jquery,git,github,vscode,netlify, postman" /></div><br><div align="center">Frontend	Backend	Database	Tools
 
 HTML5	PHP	MySQL	Git
 CSS3	APIs	SQL	GitHub
@@ -32,32 +32,9 @@ SCSS / LESS
 
 ---
 
-🧠 Competências
-
-✔ Desenvolvimento de interfaces modernas
-✔ Estruturação de sistemas web
-✔ Criação de Landing Pages
-✔ Gestão de bases de dados
-✔ Organização visual e UX
-✔ Trabalho em equipa
-✔ Aprendizado contínuo
-✔ Suporte técnico informático
-✔ Boa comunicação
-✔ Versatilidade técnica
-
----
-
 📊 GitHub Analytics
 
 <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=miltondevwebmz&show_icons=true&theme=tokyonight&hide_border=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miltondevwebmz&layout=compact&theme=tokyonight&hide_border=true" /></div><br><div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=miltondevwebmz&theme=tokyonight&hide_border=true" /></div>
-
----
-
-🌍 Contacto
-
-📍 Maputo, Moçambique <br>
-📧 miltonamonecumba@gmail.com <br>
-📱 +258 873890211
 
 ---
 
